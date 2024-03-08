@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: reflex-motion
+Version: 0.0.1
+Summary: Reflex custom component motion
+Author-email: Your Name <YOUREMAIL@domain.com>
+License: Apache-2.0
+Project-URL: Homepage, https://github.com
+Keywords: reflex,reflex-custom-components
+Classifier: Development Status :: 4 - Beta
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: reflex>=0.4.2
+Provides-Extra: dev
+Requires-Dist: build; extra == "dev"
+Requires-Dist: twine; extra == "dev"
+
+# motion
+
+A Reflex custom component motion.
+
+## Installation
+
+```bash
+pip install reflex-motion
+```
