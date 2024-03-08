@@ -2,6 +2,10 @@
 
 A Reflex wrapper for [Framer Motion](https://www.framer.com/motion/), a production-ready motion library for React.
 
+<div align="center">
+    <img src="/docs/demo.gif" alt="Reflex Motion Demo" />
+</div>
+
 # Installation
 
 ```bash
