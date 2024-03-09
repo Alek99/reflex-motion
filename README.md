@@ -16,6 +16,12 @@ pip install reflex-motion
 
 Right now Reflex Motion is a simple wrapper around Framer Motion. It provides a single component, `motion`, which is a drop-in replacement for `motion.div` from Framer Motion.
 
+Import like so:
+```python
+from reflex_motion import motion
+```
+
+Use in your Reflex ui:
 ```python
 motion(
     rx.button(
