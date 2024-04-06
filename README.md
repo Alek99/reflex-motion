@@ -67,7 +67,7 @@ Additionally you can pass in any Reflex style prop (css prop).
 
 | Name      | Key | Values | Description |
 | ----------- | ----------- | ----------- | ----------- |
-| Type    |  'type' | tween', 'spring', 'keyframes' | The type of transition to use. |
+| Type    |  'type' | 'tween', 'spring', 'keyframes' | The type of transition to use. |
 | Easing | 'ease' | 'linear', 'ease_in', 'ease_out', 'ease_in_out', 'circ_in', 'circ_out', 'circ_in_out', 'back_in', 'back_out', 'back_in_out' | The easing function to use for the transition. |
 | Duration   |  'duration' | int | The duration of the transition in milliseconds. |
 | Delay   | 'delay' | int | The delay before the transition starts in milliseconds. |
